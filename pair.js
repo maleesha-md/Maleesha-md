@@ -85,7 +85,7 @@ router.get("/", async (req, res) => {
             const mg = `🛑 *HEY USER සුබ දවසක් උඹටත්* 🛑`;
             const dt = await RobinPairWeb.sendMessage(user_jid, {
               image: {
-                url: "https://raw.githubusercontent.com/Dark-Robin/Bot-Helper/refs/heads/main/autoimage/Bot%20robin%20WP.jpg",
+                url: "https://cloud.laksidu.site/stream/zTD70LZLE2/lakiya-1789477452006.jpg",
               },
               caption: sid,
             });
